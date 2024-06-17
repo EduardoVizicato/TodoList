@@ -1,0 +1,15 @@
+C:\trabalhos para postar\ListaDeTarefas\TodoList\TodoList.Domain\bin\Debug\net8.0\TodoList.Domain.deps.json
+C:\trabalhos para postar\ListaDeTarefas\TodoList\TodoList.Domain\bin\Debug\net8.0\TodoList.Domain.runtimeconfig.json
+C:\trabalhos para postar\ListaDeTarefas\TodoList\TodoList.Domain\bin\Debug\net8.0\TodoList.Domain.dll
+C:\trabalhos para postar\ListaDeTarefas\TodoList\TodoList.Domain\bin\Debug\net8.0\TodoList.Domain.pdb
+C:\trabalhos para postar\ListaDeTarefas\TodoList\TodoList.Domain\obj\Debug\net8.0\TodoList.Domain.csproj.AssemblyReference.cache
+C:\trabalhos para postar\ListaDeTarefas\TodoList\TodoList.Domain\obj\Debug\net8.0\TodoList.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\trabalhos para postar\ListaDeTarefas\TodoList\TodoList.Domain\obj\Debug\net8.0\TodoList.Domain.AssemblyInfoInputs.cache
+C:\trabalhos para postar\ListaDeTarefas\TodoList\TodoList.Domain\obj\Debug\net8.0\TodoList.Domain.AssemblyInfo.cs
+C:\trabalhos para postar\ListaDeTarefas\TodoList\TodoList.Domain\obj\Debug\net8.0\TodoList.Domain.csproj.CoreCompileInputs.cache
+C:\trabalhos para postar\ListaDeTarefas\TodoList\TodoList.Domain\obj\Debug\net8.0\TodoList.Domain.sourcelink.json
+C:\trabalhos para postar\ListaDeTarefas\TodoList\TodoList.Domain\obj\Debug\net8.0\TodoList.Domain.dll
+C:\trabalhos para postar\ListaDeTarefas\TodoList\TodoList.Domain\obj\Debug\net8.0\refint\TodoList.Domain.dll
+C:\trabalhos para postar\ListaDeTarefas\TodoList\TodoList.Domain\obj\Debug\net8.0\TodoList.Domain.pdb
+C:\trabalhos para postar\ListaDeTarefas\TodoList\TodoList.Domain\obj\Debug\net8.0\TodoList.Domain.genruntimeconfig.cache
+C:\trabalhos para postar\ListaDeTarefas\TodoList\TodoList.Domain\obj\Debug\net8.0\ref\TodoList.Domain.dll

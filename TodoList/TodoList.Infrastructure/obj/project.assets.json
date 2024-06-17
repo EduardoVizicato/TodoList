@@ -1502,6 +1502,20 @@
             "rid": "win"
           }
         }
+      },
+      "TodoList.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "8.0.6",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.6"
+        },
+        "compile": {
+          "bin/placeholder/TodoList.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TodoList.Domain.dll": {}
+        }
       }
     }
   },
@@ -4096,6 +4110,11 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "TodoList.Domain/1.0.0": {
+      "type": "project",
+      "path": "../TodoList.Domain/TodoList.Domain.csproj",
+      "msbuildProject": "../TodoList.Domain/TodoList.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4103,7 +4122,8 @@
       "Microsoft.EntityFrameworkCore >= 8.0.6",
       "Microsoft.EntityFrameworkCore.Design >= 8.0.6",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.6",
-      "Microsoft.EntityFrameworkCore.Tools >= 8.0.6"
+      "Microsoft.EntityFrameworkCore.Tools >= 8.0.6",
+      "TodoList.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -4137,7 +4157,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\trabalhos para postar\\ListaDeTarefas\\TodoList\\TodoList.Domain\\TodoList.Domain.csproj": {
+              "projectPath": "C:\\trabalhos para postar\\ListaDeTarefas\\TodoList\\TodoList.Domain\\TodoList.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

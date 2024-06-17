@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "jg0IysbuKLSg5OJYa7WYXcj8SIjts3P2+QU354FlBQ2Qil/EXJ65NtKXpmQb9E+O3ZRCvIE4UZX8yKSEqnY0UA==",
+  "dgSpecHash": "zIuyAYe7rmWaszGOvmC3/vonbW+xru8BzKTWbGkY6htGAMyVMIvAkU/IJO983T8DHDL8GD6LNqNFsl4K7f1q9A==",
   "success": true,
   "projectFilePath": "C:\\trabalhos para postar\\ListaDeTarefas\\TodoList\\TodoList.Infrastructure\\TodoList.Infrastructure.csproj",
   "expectedPackageFiles": [
