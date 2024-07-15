@@ -5,6 +5,7 @@ using System.Diagnostics.CodeAnalysis;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using TodoList.Domain.Data.Models.Request;
 
 namespace TodoList.Domain.Data.Models
 {
@@ -14,7 +15,7 @@ namespace TodoList.Domain.Data.Models
         public Guid Id { get; set; } = Guid.NewGuid();
         [Required]
         [NotNull]
-        public string Name { get; set; }
+        public string? Name { get; set; }
         [Required]
         [NotNull]
         public bool IsCompleted { get; set; }

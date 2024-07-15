@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using TodoList.Domain.Data.Models;
+using TodoList.Domain.Data.Models.Request;
 
 namespace TodoList.Domain.Data.Repositories.Interfaces
 {
@@ -11,8 +12,9 @@ namespace TodoList.Domain.Data.Repositories.Interfaces
     {
         Task<List<User>> GetAll();
         Task<User> GetById(Guid id);
-        Task<User> Add(User user);
-        Task<bool> Delete(Guid id);
-        Task<bool> Update(Guid id, User user);
+        Task<UserRequest> Add(UserRequest userRequest);
+        Task<bool?> Delete(Guid id);
+        Task<bool?> Update(Guid id, UserRequest userRequest);
+        Task<bool?> Desactive (Guid id, UserRequest userRequest);
     }
 }

@@ -1,5 +1,7 @@
 using Microsoft.EntityFrameworkCore;
+using TodoList.Domain.Data.Repositories.Interfaces;
 using TodoList.Infrastructure.Data;
+using TodoList.Infrastructure.Data.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -12,6 +14,10 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddDbContext<ApplicationDataContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+builder.Services.AddScoped<ITaskRepository, TaskRepository>();
+builder.Services.AddScoped<IUserRepository, UserRepository>();
+builder.Services.AddCors();
 
 var app = builder.Build();
 
