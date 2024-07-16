@@ -92,7 +92,7 @@ namespace TodoList.Infrastructure.Data.Repositories
 
         public async Task<bool?> Update(Guid id, TaskModelRequest taskRequest)
         {
-            var taskToUpdate = await _context.Tasks.Include(x => x.User).FirstOrDefaultAsync(x => x.Id == id);
+            var taskToUpdate = await _context.Tasks.FindAsync(id);
 
             if (taskToUpdate == null)
             {

@@ -12,11 +12,5 @@ namespace TodoList.Domain.Data.Models
         public string Name { get; set; }
         public string Password { get; set; }
         public bool IsActive { get; set; }
-        public ICollection<TaskModel> Tasks { get; set; }
-
-        public User()
-        {
-            Tasks = new List<TaskModel>();
-        }
     }
 }

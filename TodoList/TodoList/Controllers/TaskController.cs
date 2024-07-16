@@ -2,14 +2,16 @@
 using Microsoft.AspNetCore.Mvc;
 using TodoList.Domain.Data.Models.Request;
 using TodoList.Domain.Data.Repositories.Interfaces;
+using TodoList.Infrastructure.Data.Services;
 
 namespace TodoList.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class TaskController(ITaskRepository repository) : ControllerBase
+    public class TaskController(ITaskRepository repository, TaskService taskService) : ControllerBase
     {
         private readonly ITaskRepository _repository = repository;
+        private readonly TaskService _taskService = taskService;
 
         [HttpGet]
         public async Task<IActionResult> GetAll()
@@ -82,6 +84,19 @@ namespace TodoList.Controllers
             }
 
             return Ok();
+        }
+        [HttpPost("{taskId}/assign/{userId}")]
+        public async Task<IActionResult> AssignTaskToUser(Guid taskId, Guid userId)
+        {
+            try
+            {
+                await _taskService.AssignTaskToUserAsync(taskId, userId);
+                return Ok();
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
         }
     }
 

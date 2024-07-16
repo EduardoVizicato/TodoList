@@ -8,8 +8,8 @@ using TodoList.Domain.Data.Models.Request;
 
 namespace TodoList.Domain.Data.Repositories.Interfaces.Services
 {
-    public interface ITaskService
+    public interface ITaskDomainService
     {
-        Task<TaskModelRequest> AssignTaskToUser(Guid taskId, Guid userId);
+        void AssignTaskToUser(TaskModel task, User user);
     }
 }
