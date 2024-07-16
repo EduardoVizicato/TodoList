@@ -14,6 +14,6 @@ namespace TodoList.Domain.Data.Models.Request
         [Required]
         [NotNull]
         public bool IsCompleted { get; set; }
-        public UserRequest? User { get; set; }
+        public User? User { get; set; }
     }
 }

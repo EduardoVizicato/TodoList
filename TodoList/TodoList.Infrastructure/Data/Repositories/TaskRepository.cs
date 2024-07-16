@@ -22,18 +22,18 @@ namespace TodoList.Infrastructure.Data.Repositories
         public async Task<TaskModelRequest> Add(TaskModelRequest taskRequest)
         {
 
-            var user = new User()
-            {
-                Name = taskRequest.User.Name,
-                Password = taskRequest.User.Password,
-                IsActive = taskRequest.User.IsActive,
-            };
+            //var user = new User()
+            //{
+            //Name = taskRequest.User.Name,
+            //Password = taskRequest.User.Password,
+            //IsActive = taskRequest.User.IsActive,
+            //};
             var task = new TaskModel()
             {
                 Name = taskRequest.Name,
                 IsCompleted = taskRequest.IsCompleted,
-                User = user,
-            }; 
+                User = taskRequest.User,
+            };
             await _context.AddAsync(task);
             await _context.SaveChangesAsync();
 
@@ -41,15 +41,24 @@ namespace TodoList.Infrastructure.Data.Repositories
             {
                 Name = task.Name,
                 IsCompleted = task.IsCompleted,
-                User = new UserRequest
-                {
-                    Name = task.User?.Name,
-                    Password = task.User?.Password,
-                    IsActive = task.User?.IsActive ?? true
-                }
+                User = task.User,
             };
 
             return addedTaskModelRequest;
+
+            //var addedTaskModelRequest = new TaskModelRequest()
+            //{
+            //Name = task.Name,
+            //IsCompleted = task.IsCompleted,
+            //User = new UserRequest
+            //{
+            //Name = task.User?.Name,
+            //Password = task.User?.Password,
+            //IsActive = task.User?.IsActive ?? true
+            //}
+            //};
+
+            //return addedTaskModelRequest;
         }
 
         public async Task<bool?> Delete(Guid id)

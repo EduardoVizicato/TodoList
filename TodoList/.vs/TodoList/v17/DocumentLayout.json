@@ -3,6 +3,54 @@
   "WorkspaceRootPath": "C:\\trabalhos para postar\\ListaDeTarefas\\TodoList\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A1FE38D0-B08A-4402-87B3-1BACA5ADC865}|TodoList.Infrastructure\\TodoList.Infrastructure.csproj|c:\\trabalhos para postar\\listadetarefas\\todolist\\todolist.infrastructure\\data\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1FE38D0-B08A-4402-87B3-1BACA5ADC865}|TodoList.Infrastructure\\TodoList.Infrastructure.csproj|solutionrelative:todolist.infrastructure\\data\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC11422-C090-419A-919B-BB81D821FA48}|TodoList.Domain\\TodoList.Domain.csproj|c:\\trabalhos para postar\\listadetarefas\\todolist\\todolist.domain\\data\\repositories\\interfaces\\services\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC11422-C090-419A-919B-BB81D821FA48}|TodoList.Domain\\TodoList.Domain.csproj|solutionrelative:todolist.domain\\data\\repositories\\interfaces\\services\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1FE38D0-B08A-4402-87B3-1BACA5ADC865}|TodoList.Infrastructure\\TodoList.Infrastructure.csproj|c:\\trabalhos para postar\\listadetarefas\\todolist\\todolist.infrastructure\\data\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1FE38D0-B08A-4402-87B3-1BACA5ADC865}|TodoList.Infrastructure\\TodoList.Infrastructure.csproj|solutionrelative:todolist.infrastructure\\data\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1FE38D0-B08A-4402-87B3-1BACA5ADC865}|TodoList.Infrastructure\\TodoList.Infrastructure.csproj|c:\\trabalhos para postar\\listadetarefas\\todolist\\todolist.infrastructure\\data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1FE38D0-B08A-4402-87B3-1BACA5ADC865}|TodoList.Infrastructure\\TodoList.Infrastructure.csproj|solutionrelative:todolist.infrastructure\\data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1FE38D0-B08A-4402-87B3-1BACA5ADC865}|TodoList.Infrastructure\\TodoList.Infrastructure.csproj|c:\\trabalhos para postar\\listadetarefas\\todolist\\todolist.infrastructure\\data\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1FE38D0-B08A-4402-87B3-1BACA5ADC865}|TodoList.Infrastructure\\TodoList.Infrastructure.csproj|solutionrelative:todolist.infrastructure\\data\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1FE38D0-B08A-4402-87B3-1BACA5ADC865}|TodoList.Infrastructure\\TodoList.Infrastructure.csproj|c:\\trabalhos para postar\\listadetarefas\\todolist\\todolist.infrastructure\\data\\applicationdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1FE38D0-B08A-4402-87B3-1BACA5ADC865}|TodoList.Infrastructure\\TodoList.Infrastructure.csproj|solutionrelative:todolist.infrastructure\\data\\applicationdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC11422-C090-419A-919B-BB81D821FA48}|TodoList.Domain\\TodoList.Domain.csproj|c:\\trabalhos para postar\\listadetarefas\\todolist\\todolist.domain\\data\\models\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC11422-C090-419A-919B-BB81D821FA48}|TodoList.Domain\\TodoList.Domain.csproj|solutionrelative:todolist.domain\\data\\models\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC11422-C090-419A-919B-BB81D821FA48}|TodoList.Domain\\TodoList.Domain.csproj|c:\\trabalhos para postar\\listadetarefas\\todolist\\todolist.domain\\data\\models\\request\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC11422-C090-419A-919B-BB81D821FA48}|TodoList.Domain\\TodoList.Domain.csproj|solutionrelative:todolist.domain\\data\\models\\request\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC11422-C090-419A-919B-BB81D821FA48}|TodoList.Domain\\TodoList.Domain.csproj|c:\\trabalhos para postar\\listadetarefas\\todolist\\todolist.domain\\data\\repositories\\interfaces\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC11422-C090-419A-919B-BB81D821FA48}|TodoList.Domain\\TodoList.Domain.csproj|solutionrelative:todolist.domain\\data\\repositories\\interfaces\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC11422-C090-419A-919B-BB81D821FA48}|TodoList.Domain\\TodoList.Domain.csproj|c:\\trabalhos para postar\\listadetarefas\\todolist\\todolist.domain\\data\\repositories\\interfaces\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC11422-C090-419A-919B-BB81D821FA48}|TodoList.Domain\\TodoList.Domain.csproj|solutionrelative:todolist.domain\\data\\repositories\\interfaces\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC11422-C090-419A-919B-BB81D821FA48}|TodoList.Domain\\TodoList.Domain.csproj|c:\\trabalhos para postar\\listadetarefas\\todolist\\todolist.domain\\data\\models\\request\\taskmodelrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC11422-C090-419A-919B-BB81D821FA48}|TodoList.Domain\\TodoList.Domain.csproj|solutionrelative:todolist.domain\\data\\models\\request\\taskmodelrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC11422-C090-419A-919B-BB81D821FA48}|TodoList.Domain\\TodoList.Domain.csproj|c:\\trabalhos para postar\\listadetarefas\\todolist\\todolist.domain\\data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC11422-C090-419A-919B-BB81D821FA48}|TodoList.Domain\\TodoList.Domain.csproj|solutionrelative:todolist.domain\\data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CAA32659-CC6F-440C-A1D5-BC3ACB40592F}|TodoList\\TodoList.csproj|c:\\trabalhos para postar\\listadetarefas\\todolist\\todolist\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CAA32659-CC6F-440C-A1D5-BC3ACB40592F}|TodoList\\TodoList.csproj|solutionrelative:todolist\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,40 +59,8 @@
       "RelativeMoniker": "D:0:0:{CAA32659-CC6F-440C-A1D5-BC3ACB40592F}|TodoList\\TodoList.csproj|solutionrelative:todolist\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCC11422-C090-419A-919B-BB81D821FA48}|TodoList.Domain\\TodoList.Domain.csproj|c:\\trabalhos para postar\\listadetarefas\\todolist\\todolist.domain\\data\\models\\request\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCC11422-C090-419A-919B-BB81D821FA48}|TodoList.Domain\\TodoList.Domain.csproj|solutionrelative:todolist.domain\\data\\models\\request\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCC11422-C090-419A-919B-BB81D821FA48}|TodoList.Domain\\TodoList.Domain.csproj|c:\\trabalhos para postar\\listadetarefas\\todolist\\todolist.domain\\data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCC11422-C090-419A-919B-BB81D821FA48}|TodoList.Domain\\TodoList.Domain.csproj|solutionrelative:todolist.domain\\data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCC11422-C090-419A-919B-BB81D821FA48}|TodoList.Domain\\TodoList.Domain.csproj|c:\\trabalhos para postar\\listadetarefas\\todolist\\todolist.domain\\data\\models\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCC11422-C090-419A-919B-BB81D821FA48}|TodoList.Domain\\TodoList.Domain.csproj|solutionrelative:todolist.domain\\data\\models\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1FE38D0-B08A-4402-87B3-1BACA5ADC865}|TodoList.Infrastructure\\TodoList.Infrastructure.csproj|c:\\trabalhos para postar\\listadetarefas\\todolist\\todolist.infrastructure\\data\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1FE38D0-B08A-4402-87B3-1BACA5ADC865}|TodoList.Infrastructure\\TodoList.Infrastructure.csproj|solutionrelative:todolist.infrastructure\\data\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCC11422-C090-419A-919B-BB81D821FA48}|TodoList.Domain\\TodoList.Domain.csproj|c:\\trabalhos para postar\\listadetarefas\\todolist\\todolist.domain\\data\\models\\request\\taskmodelrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCC11422-C090-419A-919B-BB81D821FA48}|TodoList.Domain\\TodoList.Domain.csproj|solutionrelative:todolist.domain\\data\\models\\request\\taskmodelrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCC11422-C090-419A-919B-BB81D821FA48}|TodoList.Domain\\TodoList.Domain.csproj|c:\\trabalhos para postar\\listadetarefas\\todolist\\todolist.domain\\data\\repositories\\interfaces\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCC11422-C090-419A-919B-BB81D821FA48}|TodoList.Domain\\TodoList.Domain.csproj|solutionrelative:todolist.domain\\data\\repositories\\interfaces\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CCC11422-C090-419A-919B-BB81D821FA48}|TodoList.Domain\\TodoList.Domain.csproj|c:\\trabalhos para postar\\listadetarefas\\todolist\\todolist.domain\\data\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCC11422-C090-419A-919B-BB81D821FA48}|TodoList.Domain\\TodoList.Domain.csproj|solutionrelative:todolist.domain\\data\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1FE38D0-B08A-4402-87B3-1BACA5ADC865}|TodoList.Infrastructure\\TodoList.Infrastructure.csproj|c:\\trabalhos para postar\\listadetarefas\\todolist\\todolist.infrastructure\\data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1FE38D0-B08A-4402-87B3-1BACA5ADC865}|TodoList.Infrastructure\\TodoList.Infrastructure.csproj|solutionrelative:todolist.infrastructure\\data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1FE38D0-B08A-4402-87B3-1BACA5ADC865}|TodoList.Infrastructure\\TodoList.Infrastructure.csproj|c:\\trabalhos para postar\\listadetarefas\\todolist\\todolist.infrastructure\\data\\applicationdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1FE38D0-B08A-4402-87B3-1BACA5ADC865}|TodoList.Infrastructure\\TodoList.Infrastructure.csproj|solutionrelative:todolist.infrastructure\\data\\applicationdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CAA32659-CC6F-440C-A1D5-BC3ACB40592F}|TodoList\\TodoList.csproj|c:\\trabalhos para postar\\listadetarefas\\todolist\\todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -87,19 +103,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\trabalhos para postar\\ListaDeTarefas\\TodoList\\TodoList\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "TodoList\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\trabalhos para postar\\ListaDeTarefas\\TodoList\\TodoList\\Controllers\\UserController.cs",
-              "RelativeToolTip": "TodoList\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAD0AAAAAAAAAAAAcwFUAAAAFAAAA",
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\trabalhos para postar\\ListaDeTarefas\\TodoList\\TodoList.Infrastructure\\Data\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "TodoList.Infrastructure\\Data\\Services\\UserService.cs",
+              "ToolTip": "C:\\trabalhos para postar\\ListaDeTarefas\\TodoList\\TodoList.Infrastructure\\Data\\Services\\UserService.cs",
+              "RelativeToolTip": "TodoList.Infrastructure\\Data\\Services\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T17:41:03.947Z",
+              "WhenOpened": "2024-07-16T00:08:58.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\trabalhos para postar\\ListaDeTarefas\\TodoList\\TodoList.Domain\\Data\\Repositories\\Interfaces\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "TodoList.Domain\\Data\\Repositories\\Interfaces\\Services\\IUserService.cs",
+              "ToolTip": "C:\\trabalhos para postar\\ListaDeTarefas\\TodoList\\TodoList.Domain\\Data\\Repositories\\Interfaces\\Services\\IUserService.cs",
+              "RelativeToolTip": "TodoList.Domain\\Data\\Repositories\\Interfaces\\Services\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T00:08:24.651Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\trabalhos para postar\\ListaDeTarefas\\TodoList\\TodoList.Infrastructure\\Data\\Services\\TaskService.cs",
+              "RelativeDocumentMoniker": "TodoList.Infrastructure\\Data\\Services\\TaskService.cs",
+              "ToolTip": "C:\\trabalhos para postar\\ListaDeTarefas\\TodoList\\TodoList.Infrastructure\\Data\\Services\\TaskService.cs",
+              "RelativeToolTip": "TodoList.Infrastructure\\Data\\Services\\TaskService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T18:23:34.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ITaskService.cs",
+              "DocumentMoniker": "C:\\trabalhos para postar\\ListaDeTarefas\\TodoList\\TodoList.Domain\\Data\\Repositories\\Interfaces\\Services\\ITaskService.cs",
+              "RelativeDocumentMoniker": "TodoList.Domain\\Data\\Repositories\\Interfaces\\Services\\ITaskService.cs",
+              "ToolTip": "C:\\trabalhos para postar\\ListaDeTarefas\\TodoList\\TodoList.Domain\\Data\\Repositories\\Interfaces\\Services\\ITaskService.cs",
+              "RelativeToolTip": "TodoList.Domain\\Data\\Repositories\\Interfaces\\Services\\ITaskService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T18:20:44.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "UserRequest.cs",
               "DocumentMoniker": "C:\\trabalhos para postar\\ListaDeTarefas\\TodoList\\TodoList.Domain\\Data\\Models\\Request\\UserRequest.cs",
               "RelativeDocumentMoniker": "TodoList.Domain\\Data\\Models\\Request\\UserRequest.cs",
@@ -112,31 +167,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TaskModelRequest.cs",
-              "DocumentMoniker": "C:\\trabalhos para postar\\ListaDeTarefas\\TodoList\\TodoList.Domain\\Data\\Models\\Request\\TaskModelRequest.cs",
-              "RelativeDocumentMoniker": "TodoList.Domain\\Data\\Models\\Request\\TaskModelRequest.cs",
-              "ToolTip": "C:\\trabalhos para postar\\ListaDeTarefas\\TodoList\\TodoList.Domain\\Data\\Models\\Request\\TaskModelRequest.cs",
-              "RelativeToolTip": "TodoList.Domain\\Data\\Models\\Request\\TaskModelRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T12:38:26.457Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "TaskRepository.cs",
               "DocumentMoniker": "C:\\trabalhos para postar\\ListaDeTarefas\\TodoList\\TodoList.Infrastructure\\Data\\Repositories\\TaskRepository.cs",
               "RelativeDocumentMoniker": "TodoList.Infrastructure\\Data\\Repositories\\TaskRepository.cs",
               "ToolTip": "C:\\trabalhos para postar\\ListaDeTarefas\\TodoList\\TodoList.Infrastructure\\Data\\Repositories\\TaskRepository.cs",
               "RelativeToolTip": "TodoList.Infrastructure\\Data\\Repositories\\TaskRepository.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAAGIAAABHAAAA",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAcwCsAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T17:41:22.634Z"
+              "WhenOpened": "2024-06-17T17:41:22.634Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
+              "Title": "ITaskRepository.cs",
+              "DocumentMoniker": "C:\\trabalhos para postar\\ListaDeTarefas\\TodoList\\TodoList.Domain\\Data\\Repositories\\Interfaces\\ITaskRepository.cs",
+              "RelativeDocumentMoniker": "TodoList.Domain\\Data\\Repositories\\Interfaces\\ITaskRepository.cs",
+              "ToolTip": "C:\\trabalhos para postar\\ListaDeTarefas\\TodoList\\TodoList.Domain\\Data\\Repositories\\Interfaces\\ITaskRepository.cs",
+              "RelativeToolTip": "TodoList.Domain\\Data\\Repositories\\Interfaces\\ITaskRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T17:27:49.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskModel.cs",
+              "DocumentMoniker": "C:\\trabalhos para postar\\ListaDeTarefas\\TodoList\\TodoList.Domain\\Data\\Models\\TaskModel.cs",
+              "RelativeDocumentMoniker": "TodoList.Domain\\Data\\Models\\TaskModel.cs",
+              "ToolTip": "C:\\trabalhos para postar\\ListaDeTarefas\\TodoList\\TodoList.Domain\\Data\\Models\\TaskModel.cs",
+              "RelativeToolTip": "TodoList.Domain\\Data\\Models\\TaskModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T20:04:20.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDataContext.cs",
+              "DocumentMoniker": "C:\\trabalhos para postar\\ListaDeTarefas\\TodoList\\TodoList.Infrastructure\\Data\\ApplicationDataContext.cs",
+              "RelativeDocumentMoniker": "TodoList.Infrastructure\\Data\\ApplicationDataContext.cs",
+              "ToolTip": "C:\\trabalhos para postar\\ListaDeTarefas\\TodoList\\TodoList.Infrastructure\\Data\\ApplicationDataContext.cs",
+              "RelativeToolTip": "TodoList.Infrastructure\\Data\\ApplicationDataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T23:12:29.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\trabalhos para postar\\ListaDeTarefas\\TodoList\\TodoList.Infrastructure\\Data\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "TodoList.Infrastructure\\Data\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\trabalhos para postar\\ListaDeTarefas\\TodoList\\TodoList.Infrastructure\\Data\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "TodoList.Infrastructure\\Data\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFMAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T17:42:07.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\trabalhos para postar\\ListaDeTarefas\\TodoList\\TodoList.Domain\\Data\\Repositories\\Interfaces\\IUserRepository.cs",
               "RelativeDocumentMoniker": "TodoList.Domain\\Data\\Repositories\\Interfaces\\IUserRepository.cs",
@@ -148,67 +244,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ITaskRepository.cs",
-              "DocumentMoniker": "C:\\trabalhos para postar\\ListaDeTarefas\\TodoList\\TodoList.Domain\\Data\\Repositories\\Interfaces\\ITaskRepository.cs",
-              "RelativeDocumentMoniker": "TodoList.Domain\\Data\\Repositories\\Interfaces\\ITaskRepository.cs",
-              "ToolTip": "C:\\trabalhos para postar\\ListaDeTarefas\\TodoList\\TodoList.Domain\\Data\\Repositories\\Interfaces\\ITaskRepository.cs",
-              "RelativeToolTip": "TodoList.Domain\\Data\\Repositories\\Interfaces\\ITaskRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T17:27:49.84Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TaskModel.cs",
-              "DocumentMoniker": "C:\\trabalhos para postar\\ListaDeTarefas\\TodoList\\TodoList.Domain\\Data\\Models\\TaskModel.cs",
-              "RelativeDocumentMoniker": "TodoList.Domain\\Data\\Models\\TaskModel.cs",
-              "ToolTip": "C:\\trabalhos para postar\\ListaDeTarefas\\TodoList\\TodoList.Domain\\Data\\Models\\TaskModel.cs",
-              "RelativeToolTip": "TodoList.Domain\\Data\\Models\\TaskModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T20:04:20.481Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "ApplicationDataContext.cs",
-              "DocumentMoniker": "C:\\trabalhos para postar\\ListaDeTarefas\\TodoList\\TodoList.Infrastructure\\Data\\ApplicationDataContext.cs",
-              "RelativeDocumentMoniker": "TodoList.Infrastructure\\Data\\ApplicationDataContext.cs",
-              "ToolTip": "C:\\trabalhos para postar\\ListaDeTarefas\\TodoList\\TodoList.Infrastructure\\Data\\ApplicationDataContext.cs",
-              "RelativeToolTip": "TodoList.Infrastructure\\Data\\ApplicationDataContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Title": "TaskModelRequest.cs",
+              "DocumentMoniker": "C:\\trabalhos para postar\\ListaDeTarefas\\TodoList\\TodoList.Domain\\Data\\Models\\Request\\TaskModelRequest.cs",
+              "RelativeDocumentMoniker": "TodoList.Domain\\Data\\Models\\Request\\TaskModelRequest.cs",
+              "ToolTip": "C:\\trabalhos para postar\\ListaDeTarefas\\TodoList\\TodoList.Domain\\Data\\Models\\Request\\TaskModelRequest.cs",
+              "RelativeToolTip": "TodoList.Domain\\Data\\Models\\Request\\TaskModelRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T23:12:29.769Z"
+              "WhenOpened": "2024-07-15T12:38:26.457Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\trabalhos para postar\\ListaDeTarefas\\TodoList\\TodoList.Infrastructure\\Data\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "TodoList.Infrastructure\\Data\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\trabalhos para postar\\ListaDeTarefas\\TodoList\\TodoList.Infrastructure\\Data\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "TodoList.Infrastructure\\Data\\Repositories\\UserRepository.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwFMAAAA5AAAA",
+              "DocumentIndex": 12,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\trabalhos para postar\\ListaDeTarefas\\TodoList\\TodoList\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "TodoList\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\trabalhos para postar\\ListaDeTarefas\\TodoList\\TodoList\\Controllers\\UserController.cs",
+              "RelativeToolTip": "TodoList\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAcwFUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T17:42:07.011Z"
+              "WhenOpened": "2024-07-15T17:41:03.947Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\trabalhos para postar\\ListaDeTarefas\\TodoList\\TodoList.Domain\\Data\\Models\\User.cs",
               "RelativeDocumentMoniker": "TodoList.Domain\\Data\\Models\\User.cs",
               "ToolTip": "C:\\trabalhos para postar\\ListaDeTarefas\\TodoList\\TodoList.Domain\\Data\\Models\\User.cs",
               "RelativeToolTip": "TodoList.Domain\\Data\\Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-12T23:16:27.363Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 13,
               "Title": "TaskController.cs",
               "DocumentMoniker": "C:\\trabalhos para postar\\ListaDeTarefas\\TodoList\\TodoList\\Controllers\\TaskController.cs",
               "RelativeDocumentMoniker": "TodoList\\Controllers\\TaskController.cs",
@@ -216,12 +288,11 @@
               "RelativeToolTip": "TodoList\\Controllers\\TaskController.cs",
               "ViewState": "AQIAAEMAAAAAAAAAAAAcwFUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T14:14:19.123Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-15T14:14:19.123Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\trabalhos para postar\\ListaDeTarefas\\TodoList\\TodoList\\Program.cs",
               "RelativeDocumentMoniker": "TodoList\\Program.cs",
@@ -233,7 +304,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\trabalhos para postar\\ListaDeTarefas\\TodoList\\TodoList\\appsettings.json",
               "RelativeDocumentMoniker": "TodoList\\appsettings.json",
@@ -245,7 +316,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "20240617173929_Create-DB.cs",
               "DocumentMoniker": "C:\\trabalhos para postar\\ListaDeTarefas\\TodoList\\TodoList.Infrastructure\\Migrations\\20240617173929_Create-DB.cs",
               "RelativeDocumentMoniker": "TodoList.Infrastructure\\Migrations\\20240617173929_Create-DB.cs",
@@ -257,7 +328,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "TodoList.Domain.csproj",
               "DocumentMoniker": "C:\\trabalhos para postar\\ListaDeTarefas\\TodoList\\TodoList.Domain\\TodoList.Domain.csproj",
               "RelativeDocumentMoniker": "TodoList.Domain\\TodoList.Domain.csproj",
