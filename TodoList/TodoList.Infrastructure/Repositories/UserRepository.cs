@@ -56,7 +56,7 @@ namespace TodoList.Infrastructure.Repository
 
         public async Task<UserModel> GetByIdAsync(Guid id)
         {
-            return await _context.Users.Where(x => x.Id == id).FirstOrDefaultAsync(x => x.Id == id);
+            return await _context.Users.FindAsync(id);
         }
 
         public async Task<bool?> UpdateAsync(Guid id, UserModelRequest request)

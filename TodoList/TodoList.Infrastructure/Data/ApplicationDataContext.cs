@@ -12,5 +12,10 @@ namespace TodoList.Infrastructure.Data
     {
         public DbSet<UserModel> Users { get; set; }
         public DbSet<TaskModel> Tasks { get; set; }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+        }
     }
 }

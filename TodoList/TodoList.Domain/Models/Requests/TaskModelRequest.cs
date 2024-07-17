@@ -10,5 +10,7 @@ namespace TodoList.Domain.Models.Requests
     {
         public string Name { get; set; }
         public bool IsCompleted { get; set; }
+        public Guid UserId { get; set; }
+        public virtual UserModel? User { get; set; }
     }
 }

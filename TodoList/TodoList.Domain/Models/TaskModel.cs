@@ -10,7 +10,9 @@ namespace TodoList.Domain.Models
     {
         public Guid Id { get; set; } = Guid.NewGuid();
         public string Name { get; set; }
-        public bool IsCompleted { get; set; }
+        public bool IsCompleted { get; set; } = false;
+        public Guid UserId { get; set; }
+        public virtual UserModel? User { get; set; } 
 
     }
 }
