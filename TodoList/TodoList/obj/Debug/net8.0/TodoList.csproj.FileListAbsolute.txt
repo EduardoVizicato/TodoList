@@ -139,3 +139,4 @@ C:\trabalhos para postar\ListaDeTarefas\TodoList\TodoList\obj\Debug\net8.0\refin
 C:\trabalhos para postar\ListaDeTarefas\TodoList\TodoList\obj\Debug\net8.0\TodoList.pdb
 C:\trabalhos para postar\ListaDeTarefas\TodoList\TodoList\obj\Debug\net8.0\TodoList.genruntimeconfig.cache
 C:\trabalhos para postar\ListaDeTarefas\TodoList\TodoList\obj\Debug\net8.0\ref\TodoList.dll
+C:\trabalhos para postar\ListaDeTarefas\TodoList\TodoList\bin\Debug\net8.0\System.Text.Json.dll

@@ -1,49 +1,57 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using TodoList.Domain.Data.Models.Request;
-using TodoList.Domain.Data.Repositories.Interfaces;
+using TodoList.Domain.Models.Requests;
+using TodoList.Domain.Repositories.Interfaces;
 
 namespace TodoList.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class UserController(IUserRepository repository) : ControllerBase
+    public class UserController(IUserRepository userRepository) : ControllerBase
     {
-        private readonly IUserRepository _repository = repository;
+        private readonly IUserRepository _repository = userRepository;
 
         [HttpGet]
         public async Task<IActionResult> GetAll()
         {
-            var data = await _repository.GetAll();
+            var data = await _repository.GetAllAsync();
+
             if (data.Count == 0)
             {
                 return NoContent();
             }
+
             return Ok(data);
         }
 
         [HttpGet("{id}")]
-        public async Task<IActionResult> GetById(Guid id)
+        public async Task<IActionResult> GetbyId(Guid id)
         {
-            var data = await _repository.GetById(id);
+            var data = await _repository.GetByIdAsync(id);
+
             if (data == null)
             {
                 return NotFound();
             }
+
             return Ok(data);
+
         }
 
         [HttpPost]
-        public async Task<IActionResult> Add([FromBody] UserRequest request)
+
+        public async Task<IActionResult> Add([FromBody] UserModelRequest request)
         {
-            var taskId = await _repository.Add(request);
-            return CreatedAtAction(nameof(GetAll), new { Id = taskId }, request);
+            var contactId = await _repository.AddAsync(request);
+
+            return CreatedAtAction(nameof(GetAll), new { Id = contactId }, request);
         }
 
         [HttpPut("{id}")]
-        public async Task<IActionResult> Update(Guid id, [FromBody] UserRequest request)
+
+        public async Task<IActionResult> Update(Guid id, [FromBody] UserModelRequest request)
         {
-            var updated = await _repository.Update(id, request);
+            var updated = await _repository.UpdateAsync(id, request);
 
             if (updated == null)
             {
@@ -57,10 +65,11 @@ namespace TodoList.Controllers
             return Ok();
         }
 
-        [HttpPut]
-        public async Task<IActionResult> Desactive(Guid id, UserRequest request)
+        [HttpDelete("{id}")]
+
+        public async Task<IActionResult> Desactive(Guid id)
         {
-            var desactived = await _repository.Desactive(id, request);
+            var desactived = await _repository.Desactive(id);
             if (desactived == null)
             {
                 return NotFound();
@@ -75,7 +84,7 @@ namespace TodoList.Controllers
         [HttpDelete]
         public async Task<IActionResult> Delete(Guid id)
         {
-            var deleted = await _repository.Delete(id);
+            var deleted = await _repository.DeleteAsync(id);
             if (deleted == null)
             {
                 return BadRequest();

@@ -1,9 +1,9 @@
 using Microsoft.EntityFrameworkCore;
-using TodoList.Domain.Data.Repositories.Interfaces;
-using TodoList.Domain.Data.Repositories.Interfaces.Services;
+using TodoList.Domain.Repositories.Interfaces;
 using TodoList.Infrastructure.Data;
-using TodoList.Infrastructure.Data.Repositories;
-using TodoList.Infrastructure.Data.Services;
+using TodoList.Infrastructure.Repositories;
+using TodoList.Infrastructure.Repository;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -19,9 +19,7 @@ builder.Services.AddDbContext<ApplicationDataContext>(options =>
 
 builder.Services.AddScoped<ITaskRepository, TaskRepository>();
 builder.Services.AddScoped<IUserRepository, UserRepository>();
-builder.Services.AddScoped<ITaskDomainService, TaskDomainService>();
-builder.Services.AddScoped<TaskService>();
-builder.Services.AddCors();
+
 
 var app = builder.Build();
 

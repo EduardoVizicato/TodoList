@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TodoList.Domain.Data.Repositories.Interfaces.Services
+namespace TodoList.Domain.Repositories.Interfaces
 {
-    public interface IUserService
+    public interface ITaskRepository
     {
-
     }
 }
